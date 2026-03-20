@@ -116,8 +116,15 @@ CRUD Operations
 ORM-based database handling
 
 📸 Screenshots
+<img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/f2dc60d0-a037-4aa3-b178-e7088141b66d" />
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/e99fc573-0ceb-4c67-a450-533197ddb6ff" />
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/cf7c4732-f298-4c30-978e-e7b17c5579e3" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/f5d4cd0c-1449-41c8-bd25-8b3e249c1e51" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/6ddba79d-2840-425c-b54f-6b4cfabd5e44" />
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/6a3c08d7-bfb6-452b-9f23-05538b7994f8" />
+<img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/09fd915e-9023-40f2-8853-4847bce10717" />
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/ae616242-ae58-4ad4-95bc-81f5aa002e03" />
 
-You can add project screenshots here after uploading images.
 
 Example:
 
