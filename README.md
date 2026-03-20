@@ -126,16 +126,6 @@ ORM-based database handling
 <img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/ae616242-ae58-4ad4-95bc-81f5aa002e03" />
 
 
-Example:
-
-## 📸 Screenshots
-
-### Main Menu
-![Main Menu](screenshots/main-menu.png)
-
-### Patient Management
-![Patient Management](screenshots/patient-management.png)
-📈 Learning Outcomes
 
 Through this project, I learned:
 
